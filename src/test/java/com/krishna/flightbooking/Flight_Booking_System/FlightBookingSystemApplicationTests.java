@@ -1,4 +1,4 @@
-package com.prafull.flightbooking.Flight_Booking_System;
+package com.krishna.flightbooking.Flight_Booking_System;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
